@@ -46,8 +46,7 @@
 
 ## 📊 GitHub Stats  
 ![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-code-hub&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-code-hub&hide=c%2b%2b&layout=compact&theme=radical)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-code-hub&layout=compact&theme=radical&custom_title=Languages%20I%20Use)
 ![GitHub Streak](https://streak-stats.demolab.com?user=devendra-code-hub&theme=radical&hide_border=true)  
 
 ---
