@@ -4,9 +4,8 @@
 
 ## 🚀 About Me  
 - 🎓 B.Tech in Computer Science & Engineering (2023–2027) at IIIT Bhopal  
-- 💻 Passionate about **Web Development, Backend Systems, and Open Source**  
-- 🌱 Currently improving skills in **Node.js, Express.js, and React.js**  
-- 🔭 Open Source Contributor at **Hacktoberfest 2024** & **GSSoC 2024**  
+- 💻 Passionate about **Web Development, Backend Systems, and  AI ML**  
+- 🌱 Currently improving skills in **Node.js, Express.js, and React.js**   
 - 📚 Exploring Data Structures, Algorithms, and Competitive Programming  
 
 ---
