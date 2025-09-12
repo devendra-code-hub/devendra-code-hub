@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 - 🎓 B.Tech in Computer Science & Engineering (2023–2027) at IIIT Bhopal  
-- 💻 Passionate about **Web Development, Backend Systems, and  AI ML**  
+- 💻 Passionate about **Web Development, Backend Systems, and  AI & ML**  
 - 🌱 Currently improving skills in **Node.js, Express.js, and React.js**   
 - 📚 Exploring Data Structures, Algorithms, and Competitive Programming  
 
@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Stats  
 ![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-code-hub&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-code-hub&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-code-hub&layout=compact&theme=tokyonight&langs_count=10)
 ![GitHub Streak](https://streak-stats.demolab.com?user=devendra-code-hub&theme=radical&hide_border=true)  
 
 ---
