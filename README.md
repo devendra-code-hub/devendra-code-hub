@@ -1,61 +1,90 @@
-# 👋 Hi, I'm Devendra Kumar Mahto  
+<h1 align="center">Hi 👋, I'm Devendra Kumar Mahto</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=devendra-code-hub&style=flat-square&color=blue)  
+<p align="center">
+🎓 B.Tech CSE @ IIIT Bhopal (2023–2027) <br>
+💡 Interested in Machine Learning, Explainable AI & Backend Systems <br>
+📊 Exploring AI for real-world applications (Healthcare, Data-driven systems)
+</p>
 
-## 🚀 About Me  
-- 🎓 B.Tech in Computer Science & Engineering (2023–2027) at IIIT Bhopal  
-- 💻 Passionate about **Web Development, Backend Systems, and  AI & ML**  
-- 🌱 Currently improving skills in **Node.js, Express.js, and React.js**   
-- 📚 Exploring Data Structures, Algorithms, and Competitive Programming  
+---
+
+## 🚀 About Me
+
+- 🔬 Currently working on **Explainable AI for Healthcare Applications**
+- 💻 Building scalable backend systems using **Node.js & Express**
+- 🧠 Strong foundation in **Data Structures, Algorithms & Problem Solving**
+- 🌱 Learning **Machine Learning, Data Science & System Design**
+- 🎯 Goal: Pursue research in **AI & real-world intelligent systems**
+
+---
+
+## 🧠 Research Interests
+- Machine Learning & Explainable AI  
+- Data Science & Predictive Modeling  
+- AI for Healthcare & Real-world Applications  
+- Distributed Systems & Backend Engineering  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 👨‍💻 Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Web Technologies  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+---
 
-### 📚 Frameworks & Libraries  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
+### 🌐 Web & Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
 
 ### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![LocalStorage](https://img.shields.io/badge/LocalStorage-000000?style=for-the-badge&logo=google-chrome&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+---
+
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🔥 Featured Project
+
+### 🧠 Explainable AI for Diabetes Prediction
+- Built ML models (Logistic Regression, Random Forest)  
+- Applied **SHAP** for model interpretability  
+- Identified key features influencing predictions  
+- Achieved ~76% accuracy  
+
+👉 *(Check pinned repositories for details)*
 
 ---
 
 ## 📊 GitHub Stats  
-![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-code-hub&show_icons=true&theme=radical)  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-code-hub&layout=compact&theme=radical&custom_title=Languages%20I%20Use)
-![GitHub Streak](https://streak-stats.demolab.com?user=devendra-code-hub&theme=radical&hide_border=true)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devendra-code-hub&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-code-hub&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 🤝 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-kumar-mahto-192201292/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devendra-code-hub)  
-📧 devendra251india@gmail.com  
+## 🤝 Connect with Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/vinay20kumar/  
+- 💻 GitHub: https://github.com/devendra-code-hub  
 
 ---
 
-✨ *“Code, Learn, Build, Repeat!”* ✨
+<p align="center">
+⚡ "Building intelligent systems that are not just powerful, but also interpretable."
+</p>
