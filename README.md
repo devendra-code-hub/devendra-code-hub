@@ -64,7 +64,7 @@ Git • GitHub • Vercel • VS Code
 
 ## 🤝 Connect  
 
-- LinkedIn: https://www.linkedin.com/in/vinay20kumar/  
+- LinkedIn:  https://www.linkedin.com/in/devendra-kumar-mahto-192201292/ 
 - GitHub: https://github.com/devendra-code-hub  
 
 ---
