@@ -66,7 +66,7 @@ CS undergrad at IIIT Bhopal with strong foundations in **DSA, OOP, and full-stac
 
 ## 🚀 Featured Projects
 
-### [CodeSense — AI-Powered Code Review API](https://github.com/devendra-code-hub) &nbsp; ![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)[](https://ai-code-review-api-3.onrender.com/)
+### [CodeSense — AI-Powered Code Review API](https://github.com/devendra-code-hub) &nbsp; ![Live](https://ai-code-review-api-3.onrender.com/)
 > `Node.js` `Express` `TypeScript` `Claude API` `Redis` `MongoDB` `JWT` `Docker`
 
 Production-grade REST API that accepts code submissions and returns AI-driven analysis — bug detection, security vulnerability scanning, complexity feedback, and refactor suggestions.
@@ -78,7 +78,7 @@ Production-grade REST API that accepts code submissions and returns AI-driven an
 
 ---
 
-### [Quiz Platform](https://github.com/devendra-code-hub) &nbsp; ![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)[](https://quiz-app-nine-red.vercel.app/)
+### [Quiz Platform](https://github.com/devendra-code-hub) &nbsp; ![Live](https://quiz-app-nine-red.vercel.app/)
 > `React` `JavaScript` `Vite` `Tailwind CSS` `Context API` `Vercel`
 
 Full-stack SPA with modular, reusable component architecture designed for large-scale deployment.
