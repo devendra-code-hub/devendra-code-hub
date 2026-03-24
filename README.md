@@ -27,7 +27,7 @@ CS undergrad at IIIT Bhopal with strong foundations in **DSA, OOP, and full-stac
 - 🤖 Integrating LLM APIs (Claude AI) for intelligent, real-world applications
 - 📦 Deploying containerized services with **Docker**, **CI/CD**, and **Vercel**
 - 🏆 Global Rank **7529** at Meta Hacker Cup 2024 among 22,000+ participants
-- 🌍 Hacktoberfest 2024 contributor — 8+ accepted PRs across open-source repositories
+- 🌍 Hacktoberfest 2024 contributor — 5+ accepted PRs across open-source repositories
 
 ---
 
@@ -66,7 +66,7 @@ CS undergrad at IIIT Bhopal with strong foundations in **DSA, OOP, and full-stac
 
 ## 🚀 Featured Projects
 
-### [CodeSense — AI-Powered Code Review API](https://github.com/devendra-code-hub) &nbsp; ![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)
+### [CodeSense — AI-Powered Code Review API](https://github.com/devendra-code-hub) &nbsp; ![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)[](https://ai-code-review-api-3.onrender.com/)
 > `Node.js` `Express` `TypeScript` `Claude API` `Redis` `MongoDB` `JWT` `Docker`
 
 Production-grade REST API that accepts code submissions and returns AI-driven analysis — bug detection, security vulnerability scanning, complexity feedback, and refactor suggestions.
@@ -78,7 +78,7 @@ Production-grade REST API that accepts code submissions and returns AI-driven an
 
 ---
 
-### [Quiz Platform](https://github.com/devendra-code-hub) &nbsp; ![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)
+### [Quiz Platform](https://github.com/devendra-code-hub) &nbsp; ![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)[](https://quiz-app-nine-red.vercel.app/)
 > `React` `JavaScript` `Vite` `Tailwind CSS` `Context API` `Vercel`
 
 Full-stack SPA with modular, reusable component architecture designed for large-scale deployment.
@@ -104,7 +104,7 @@ Full-stack SPA with modular, reusable component architecture designed for large-
 |---|---|
 | 🥇 Meta Hacker Cup 2024 | Global Rank 7529 among 22,000+ participants |
 | 💻 Competitive Programming | 800+ DSA problems on LeetCode, Codeforces, CodeChef |
-| 🌍 Hacktoberfest 2024 | 8+ open-source contributions, official badge earned |
+| 🌍 Hacktoberfest 2024 | 5+ open-source contributions, official badge earned |
 | 🏥 Hack-O-Sprint 2.0 | Top 8 of 50 teams — mobile healthcare management system |
 | 👥 Google Developer Group | R&D Lead on Campus, mentored 150+ students, 450+ participant AI event |
 
